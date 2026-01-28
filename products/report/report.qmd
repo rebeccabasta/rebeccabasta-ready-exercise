@@ -63,7 +63,7 @@ _It is recommended to use a structured abstract with Background/Methods/Results/
 _Provide enough background on your topic that others can understand the why and how of your analysis_ 
 
 ## Description of data and data source
-_Describe what the data is, what it contains, where it is from, etc. Eventually this might be part of a methods section._
+The dataset includes height, weight, and gender. I added preffered study time and weekly exercise time to extend the data. Preffered study time is a catergorical variable (morning, afternoon, night). Weekly exercise time is a numerical value representing the amount of time in minutes that an individual exercises per week. A description of all the variables is provided in the codebook. 
 
 ## Questions/Hypotheses to be addressed
 _State the research questions you plan to answer with this analysis._
