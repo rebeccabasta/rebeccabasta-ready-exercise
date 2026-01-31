@@ -1,0 +1,20 @@
+project: 
+  type: website
+  output-dir: docs
+
+website:
+  title: "READy exercise"
+  navbar:
+        menu:
+          - text: "READy exercise"
+            file: ready-exercise.html
+            
+      - icon: github 
+        href: https://github.com/rebeccabasta/rebeccabasta-ready-exercise
+        
+  html:
+      self-contained: true
+      theme: minty
+      highlight: zenburn
+      css: styles.css
+      toc: FALSE
