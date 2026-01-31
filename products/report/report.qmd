@@ -11,12 +11,6 @@ bibliography: ../../assets/dataanalysis-references.bib
 csl: ../../assets/american-journal-of-epidemiology.csl
 ---
 
-
-
-
-The structure below is one possible setup for a report stemming from a data analysis project. It loosely follows the structure of a standard scientific manuscript. Adjust as needed. 
-You don't need to have exactly these sections, but the content covering those sections should be addressed.
-
 This uses [HTML as output format](https://quarto.org/docs/output-formats/html-basics.html). See [the Quarto documentation](https://quarto.org/) for instructions on how to use other formats.
 
 
@@ -72,5 +66,3 @@ knitr::include_graphics(here("results","figures","height-weight-stratified.png")
 resulttable2 <- readRDS(here("results","tables","resulttable2.rds"))
 knitr::kable(resulttable2)
 ```
-
-
