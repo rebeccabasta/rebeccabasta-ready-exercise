@@ -1,5 +1,5 @@
 ---
-title: "Example Report Template for a Data Analysis Project"
+title: "READy analysis"
 author: "Rebecca Basta and Katherine Lorusso"
 format:
   html:
